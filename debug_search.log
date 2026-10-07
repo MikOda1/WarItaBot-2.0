@@ -1,0 +1,104 @@
+[2026-09-07T13:53:50.560Z] ERRORE ricerca: "Mik_Oda"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T13:54:08.503Z] ERRORE ricerca: "mik"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T16:21:16.525Z] ERRORE ricerca: "null"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T16:21:31.820Z] ERRORE ricerca: "null"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T16:21:46.008Z] ERRORE ricerca: "null"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T19:01:50.307Z] ERRORE ricerca: "Mik_Oda"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T19:02:06.603Z] ERRORE ricerca: "null"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
+[2026-09-07T19:03:27.334Z] ERRORE ricerca: "Mik_Oda"
+WarEra API error su search.searchAnything: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "searchText"
+    ],
+    "message": "Required"
+  }
+]
+
